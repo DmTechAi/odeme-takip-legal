@@ -106,7 +106,7 @@ Bu politika güncellenirse, uygulama içinde size bildirim göstereceğiz. Bu sa
 Sorularınız veya talepleriniz için:
 
 **E-posta:** dudevmarketing@gmail.com  
-**Geliştirici:** [DM Tech AI]  
+**Geliştirici:** [Dmora Tech]  
 **Uygulama Versiyonu:** 1.0.0
 
 ---

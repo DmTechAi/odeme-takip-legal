@@ -81,7 +81,7 @@ Bu koşullar Türkiye Cumhuriyeti hukukuna tabidir. Uyuşmazlık halinde **İsta
 ## 11. İletişim
 
 **E-posta:** dudevmarketing@gmail.com  
-**Geliştirici:** [Senin adın / şirket adın — bunu güncelle]
+**Geliştirici:** [DM Tech AI]
 
 ---
 

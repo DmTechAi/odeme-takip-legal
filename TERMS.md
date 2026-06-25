@@ -80,7 +80,7 @@ Bu koşullar Türkiye Cumhuriyeti hukukuna tabidir. Uyuşmazlık halinde **İsta
 
 ## 11. İletişim
 
-**E-posta:** dudevmarketing@gmail.com  
+**E-posta:** dmindtechai@gmail.com  
 **Geliştirici:** [Dmora Tech]
 
 ---
